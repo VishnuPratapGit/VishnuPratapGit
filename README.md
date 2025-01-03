@@ -3,8 +3,8 @@ I'm a passionate software developer with a keen interest in Full Stack Web Devel
 
 ___
 <div style="display: flex; justify-content: center;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VishnuPratapGit&show_icons=true&theme=radical" height="192px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuPratapGit&layout=compact&theme=radical" alt="Gift's language" height="192px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VishnuPratapGit&show_icons=true&theme=radical" height="150px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuPratapGit&layout=compact&theme=radical" alt="Gift's language" height="150px" />
 </div>
 
 ___
