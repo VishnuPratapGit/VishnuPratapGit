@@ -10,8 +10,8 @@ I'm a passionate software developer with a keen interest in Full Stack Web Devel
 ## Tech Stack
 Here are some of the technologies I work with:
 
-- **Languages:** JavaScript, Nodejs
-- **Frameworks/Library:** React, Expressjs, Redux Toolkit, Mongoose 
+- **Languages:** JavaScript, Nodejs, CSS
+- **Frameworks/Library:** React, Expressjs, Redux Toolkit, Mongoose, Tailwind CSS 
 - **Tools:** Git, GitHub
 - **Databases:** MySQL, MongoDB
 
