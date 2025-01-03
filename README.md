@@ -1,5 +1,5 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Vishnu</h1>
-<h3> I'm a passionate software developer with a keen interest in Full Stack Web Development. I love exploring new technologies and continuously improving my skills.</h3>
+<div> I'm a passionate software developer with a keen interest in Full Stack Web Development. I love exploring new technologies and continuously improving my skills.</div>
 
 ___
 <div style="display: flex; justify-content: center;">
@@ -9,12 +9,12 @@ ___
 
 ___
 
-## My Recent Projects
-
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=PostPalace&theme=default" alt="PostPalace" height="130px">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=MyYouTube&theme=default" alt="MyYouTube" height="130px">
 </div>
+
+___
 
 ## Connect with Me
 [![Email](https://img.shields.io/badge/Email-vishnupratap626@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnupratap626@gmail.com)
