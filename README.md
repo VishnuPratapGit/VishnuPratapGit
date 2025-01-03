@@ -12,8 +12,8 @@ ___
 ## My Recent Projects
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=PostPalace&theme=radical" alt="PostPalace" height="130px">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=MyYouTube&theme=radical" alt="MyYouTube" height="130px">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=PostPalace&theme=default" alt="PostPalace" height="130px">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=MyYouTube&theme=default" alt="MyYouTube" height="130px">
 </div>
 
 ## Connect with Me
