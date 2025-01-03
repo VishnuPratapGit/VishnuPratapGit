@@ -21,7 +21,7 @@ Here are some of the technologies I work with:
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuPratapGit&layout=compact&theme=radical)
 
-## My Projects
+## My Recent Projects
 <table>
   <tr>
     <td>
