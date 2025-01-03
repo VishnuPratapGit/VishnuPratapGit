@@ -1,5 +1,5 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Vishnu</h1>
-<h5> I'm a passionate software developer with a keen interest in Full Stack Web Development. I love exploring new technologies and continuously improving my skills.</h5>
+<h3> I'm a passionate software developer with a keen interest in Full Stack Web Development. I love exploring new technologies and continuously improving my skills.</h3>
 
 ___
 <div style="display: flex; justify-content: center;">
