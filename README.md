@@ -2,8 +2,8 @@
 
 I'm a passionate software developer with a keen interest in Full Stack Web Development. I love exploring new technologies and continuously improving my skills.
 
-- 🔭 I’m currently working on building video sharing platform.
-- 🌱 I’m currently learning mongo aggregation pipeline.
+- 🔭 I’m currently working on building MERN Stack Project VideoShare.
+- 🌱 I’m currently learning MongoDB aggregation pipelines.
 - 👯 I’m looking to collaborate in MERN Projects.
 - 📫 How to reach me: vishnupratap626@gmail.com
 
@@ -11,8 +11,8 @@ I'm a passionate software developer with a keen interest in Full Stack Web Devel
 Here are some of the technologies I work with:
 
 - **Languages:** JavaScript, Nodejs
-- **Frameworks:** React
-- **Tools:** Git, Docker
+- **Frameworks/Library:** React, Expressjs, Redux Toolkit, Mongoose 
+- **Tools:** Git, GitHub
 - **Databases:** MySQL, MongoDB
 
 ## GitHub Stats
@@ -24,15 +24,21 @@ Here are some of the technologies I work with:
 ## My Projects
 <table>
   <tr>
-      <h3><a href="https://github.com/VishnuPratapGit/PostPalace">PostPalace - A Blog Application</a></h3>
+    <td>
+      <h3><a href="https://github.com/VishnuPratapGit/PostPalace">PostPalace - React | Appwrite </a></h3>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=PostPalace&theme=radical" alt="PostPalace">
-      <h3><a href="https://github.com/VishnuPratapGit/MyYouTube">MyYouTube - A video sharing platform</a></h3>
+    </td>
+    <td>
+      <h3><a href="https://github.com/VishnuPratapGit/MyYouTube">MyYouTube - React | Appwrite </a></h3>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=MyYouTube&theme=radical" alt="MyYouTube">
-      <h3><a href="https://github.com/VishnuPratapGit/VideoShare">VideoShare - MERN Stack Video Sharing Platform</a></h3>
+    </td>
+    <td>
+       <h3><a href="https://github.com/VishnuPratapGit/VideoShare">VideoShare - MERN Stack </a></h3>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=VideoShare&theme=radical" alt="YouTube-MERN">
+    </td>
   </tr>
 </table>
 
-## Connect Me
-- [LinkedIn](https://www.linkedin.com/in/vishnuprataps)
-- [Personal Website/Blog](https://yourwebsite.com)
+## Connect with Me
+[![Email](https://img.shields.io/badge/Email-vishnupratap626@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnupratap626@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishnuprataps)
