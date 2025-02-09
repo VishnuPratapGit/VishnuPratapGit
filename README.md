@@ -7,8 +7,8 @@ I'm a passionate software developer with a keen interest in Full Stack Web Devel
 
 ---
 
- <img src="https://github-readme-stats.vercel.app/api?username=VishnuPratapGit&show_icons=true&theme=dark"> 
-
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishnuPratapGit&theme=github_dark">
+ 
 ---
 ## My Recent Projects
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=PostPalace&theme=dark" alt="PostPalace">](https://github.com/VishnuPratapGit/PostPalace) 
