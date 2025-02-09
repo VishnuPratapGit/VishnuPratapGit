@@ -7,15 +7,10 @@ I'm a passionate software developer with a keen interest in Full Stack Web Devel
 
 ---
 
- <img src="https://github-readme-stats.vercel.app/api?username=VishnuPratapGit&show_icons=true&theme=radical"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=VishnuPratapGit&show_icons=true&theme=dark"> 
 
 ---
 ## My Recent Projects
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=PostPalace&theme=radical" alt="PostPalace">](https://github.com/VishnuPratapGit/PostPalace) 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=wallet&theme=default" alt="wallet">](https://github.com/VishnuPratapGit/wallet) 
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=PostPalace&theme=dark" alt="PostPalace">](https://github.com/VishnuPratapGit/PostPalace) 
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=wallet&theme=dark" alt="wallet">](https://github.com/VishnuPratapGit/wallet) 
 ---
-
-## Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-vishnupratap626@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnupratap626@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishnuprataps)
