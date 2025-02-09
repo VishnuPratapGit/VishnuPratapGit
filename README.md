@@ -12,7 +12,7 @@ I'm a passionate software developer with a keen interest in Full Stack Web Devel
 ---
 ## My Recent Projects
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=PostPalace&theme=default" alt="PostPalace">](https://github.com/VishnuPratapGit/PostPalace) 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=Wallet&theme=default" alt="Wallet">](https://github.com/VishnuPratapGit/Wallet) 
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuPratapGit&repo=wallet&theme=default" alt="wallet">](https://github.com/VishnuPratapGit/wallet) 
 ---
 
 ## Connect with Me
