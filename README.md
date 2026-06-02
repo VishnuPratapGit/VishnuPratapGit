@@ -13,3 +13,4 @@ I'm a passionate software developer with a keen interest in Full Stack Web Devel
 ## My Recent Projects
 [![PostPalace](https://github-readme-stat-eight-alpha.vercel.app/api/pin/?username=VishnuPratapGit&repo=PostPalace&theme=dark)](https://github.com/VishnuPratapGit/PostPalace)
 [![Expense-Tracker](https://github-readme-stat-eight-alpha.vercel.app/api/pin/?username=VishnuPratapGit&repo=Expense-Tracker&theme=dark)](https://github.com/VishnuPratapGit/Expense-Tracker)
+[![Blogger](https://github-readme-stat-eight-alpha.vercel.app/api/pin/?username=VishnuPratapGit&repo=videoapp&theme=dark)](https://github.com/VishnuPratapGit/videoapp)
